@@ -69,7 +69,6 @@ file_path,action,csv_file_path
 ./Train_Data\1_Finger_Click\Video_Test_32.mp4,1_Finger_Click,./Train_Data\1_Finger_Click\Video_Test_32.csv
 ./Train_Data\1_Finger_Click\Video_Test_33.mp4,1_Finger_Click,./Train_Data\1_Finger_Click\Video_Test_33.csv
 ./Train_Data\1_Finger_Click\Video_Test_34.mp4,1_Finger_Click,./Train_Data\1_Finger_Click\Video_Test_34.csv
-./Train_Data\1_Finger_Click\Video_Test_35.mp4,1_Finger_Click,./Train_Data\1_Finger_Click\Video_Test_35.csv
 ./Train_Data\1_Finger_Click\Video_Test_4 (2).mp4,1_Finger_Click,./Train_Data\1_Finger_Click\Video_Test_4 (2).csv
 ./Train_Data\1_Finger_Click\Video_Test_4 (3).mp4,1_Finger_Click,./Train_Data\1_Finger_Click\Video_Test_4 (3).csv
 ./Train_Data\1_Finger_Click\Video_Test_4 (4).mp4,1_Finger_Click,./Train_Data\1_Finger_Click\Video_Test_4 (4).csv
@@ -254,7 +253,6 @@ file_path,action,csv_file_path
 ./Train_Data\2_Fingers_Right\Video_Test_34.mp4,2_Fingers_Right,./Train_Data\2_Fingers_Right\Video_Test_34.csv
 ./Train_Data\2_Fingers_Right\Video_Test_35.mp4,2_Fingers_Right,./Train_Data\2_Fingers_Right\Video_Test_35.csv
 ./Train_Data\2_Fingers_Right\Video_Test_36.mp4,2_Fingers_Right,./Train_Data\2_Fingers_Right\Video_Test_36.csv
-./Train_Data\2_Fingers_Right\Video_Test_37.mp4,2_Fingers_Right,./Train_Data\2_Fingers_Right\Video_Test_37.csv
 ./Train_Data\2_Fingers_Right\Video_Test_38.mp4,2_Fingers_Right,./Train_Data\2_Fingers_Right\Video_Test_38.csv
 ./Train_Data\2_Fingers_Right\Video_Test_39.mp4,2_Fingers_Right,./Train_Data\2_Fingers_Right\Video_Test_39.csv
 ./Train_Data\2_Fingers_Right\Video_Test_4 (2).mp4,2_Fingers_Right,./Train_Data\2_Fingers_Right\Video_Test_4 (2).csv
@@ -264,7 +262,6 @@ file_path,action,csv_file_path
 ./Train_Data\2_Fingers_Right\Video_Test_4.mp4,2_Fingers_Right,./Train_Data\2_Fingers_Right\Video_Test_4.csv
 ./Train_Data\2_Fingers_Right\Video_Test_40.mp4,2_Fingers_Right,./Train_Data\2_Fingers_Right\Video_Test_40.csv
 ./Train_Data\2_Fingers_Right\Video_Test_41.mp4,2_Fingers_Right,./Train_Data\2_Fingers_Right\Video_Test_41.csv
-./Train_Data\2_Fingers_Right\Video_Test_42.mp4,2_Fingers_Right,./Train_Data\2_Fingers_Right\Video_Test_42.csv
 ./Train_Data\2_Fingers_Right\Video_Test_5 (2).mp4,2_Fingers_Right,./Train_Data\2_Fingers_Right\Video_Test_5 (2).csv
 ./Train_Data\2_Fingers_Right\Video_Test_5 (3).mp4,2_Fingers_Right,./Train_Data\2_Fingers_Right\Video_Test_5 (3).csv
 ./Train_Data\2_Fingers_Right\Video_Test_5 (4).mp4,2_Fingers_Right,./Train_Data\2_Fingers_Right\Video_Test_5 (4).csv
