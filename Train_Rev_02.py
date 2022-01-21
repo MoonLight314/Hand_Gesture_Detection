@@ -12,6 +12,7 @@ import cv2 as cv
 import os
 import pydevd
 from collections import deque
+from tensorflow.keras.models import model_from_json
 
 from sklearn.preprocessing import LabelEncoder 
 from sklearn.model_selection import train_test_split
@@ -27,7 +28,10 @@ from tensorflow.keras.callbacks import TensorBoard , ModelCheckpoint
 #BATCH_SIZE = 4
 BATCH_SIZE = 1
 DROP_OUT_RATE = 0.25
-INPUT_SHAPE = ( 8, 112, 112, 3)
+
+#INPUT_SHAPE = ( -1, 120, 112, 112, 3)
+INPUT_SHAPE = ( -1, 32, 112, 112, 3)
+
 DEST_SIZE = (112 , 112)
 MAX_FRAME = 120
 
@@ -118,6 +122,7 @@ def generate_data( file_path , label ):
     
     data = Adjust_Length( data )
     data = data / 255
+    print( data.shape )
 
     return data , label
 
@@ -157,10 +162,9 @@ def define_model( input_shape ):
     
     # Create the model
     model = Sequential()
-    model.add(Conv3D(64, kernel_size=(3, 3, 3), activation='relu', kernel_initializer='he_uniform', padding="same" , input_shape=input_shape))
+    model.add(Conv3D(64, kernel_size=(3, 3, 3), activation='relu', kernel_initializer='he_uniform', padding="same" , input_shape=input_shape[1:]))
     model.add(BatchNormalization())
     model.add(MaxPooling3D(pool_size = [1,2,2], strides = [1,2,2], padding = "same"))
-
 
     model.add(Conv3D(128, kernel_size=(3, 3, 3), activation='relu', kernel_initializer='he_uniform', padding="same"))
     model.add(BatchNormalization())
@@ -182,7 +186,6 @@ def define_model( input_shape ):
     model.add(BatchNormalization())
     model.add(Conv3D(512, kernel_size=(3, 3, 3), activation='relu', kernel_initializer='he_uniform', padding="same"))
     model.add(BatchNormalization())
-
     
     model.add( Flatten() )
     model.add( Dense(512, activation='relu') )
@@ -197,7 +200,7 @@ def define_model( input_shape ):
 model = define_model( INPUT_SHAPE )
 print( model.summary() )
 
-
+"""
 model.compile(
     optimizer=tf.keras.optimizers.Adam(1e-3),
     loss='categorical_crossentropy',
@@ -207,3 +210,4 @@ model.compile(
 
 model.fit( train_dataset,
             verbose=1 )
+"""            
