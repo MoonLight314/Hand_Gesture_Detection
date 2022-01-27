@@ -1,0 +1,390 @@
+file_path,action,frame_count,npy_path
+./Train_Data/1_Finger_Click/Video_Test_10 (2).mp4,1_Finger_Click,80,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_10 (2)
+./Train_Data/1_Finger_Click/Video_Test_10 (3).mp4,1_Finger_Click,70,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_10 (3)
+./Train_Data/1_Finger_Click/Video_Test_10 (4).mp4,1_Finger_Click,60,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_10 (4)
+./Train_Data/1_Finger_Click/Video_Test_10.mp4,1_Finger_Click,75,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_10
+./Train_Data/1_Finger_Click/Video_Test_11 (2).mp4,1_Finger_Click,71,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_11 (2)
+./Train_Data/1_Finger_Click/Video_Test_11 (3).mp4,1_Finger_Click,72,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_11 (3)
+./Train_Data/1_Finger_Click/Video_Test_11.mp4,1_Finger_Click,71,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_11
+./Train_Data/1_Finger_Click/Video_Test_12 (2).mp4,1_Finger_Click,51,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_12 (2)
+./Train_Data/1_Finger_Click/Video_Test_12 (3).mp4,1_Finger_Click,58,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_12 (3)
+./Train_Data/1_Finger_Click/Video_Test_12 (4).mp4,1_Finger_Click,57,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_12 (4)
+./Train_Data/1_Finger_Click/Video_Test_12.mp4,1_Finger_Click,71,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_12
+./Train_Data/1_Finger_Click/Video_Test_13 (2).mp4,1_Finger_Click,68,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_13 (2)
+./Train_Data/1_Finger_Click/Video_Test_13 (3).mp4,1_Finger_Click,74,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_13 (3)
+./Train_Data/1_Finger_Click/Video_Test_13.mp4,1_Finger_Click,60,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_13
+./Train_Data/1_Finger_Click/Video_Test_14 (2).mp4,1_Finger_Click,62,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_14 (2)
+./Train_Data/1_Finger_Click/Video_Test_14 (3).mp4,1_Finger_Click,77,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_14 (3)
+./Train_Data/1_Finger_Click/Video_Test_14 (4).mp4,1_Finger_Click,59,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_14 (4)
+./Train_Data/1_Finger_Click/Video_Test_14.mp4,1_Finger_Click,77,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_14
+./Train_Data/1_Finger_Click/Video_Test_15 (2).mp4,1_Finger_Click,62,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_15 (2)
+./Train_Data/1_Finger_Click/Video_Test_15 (3).mp4,1_Finger_Click,61,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_15 (3)
+./Train_Data/1_Finger_Click/Video_Test_15.mp4,1_Finger_Click,85,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_15
+./Train_Data/1_Finger_Click/Video_Test_16 (2).mp4,1_Finger_Click,81,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_16 (2)
+./Train_Data/1_Finger_Click/Video_Test_16 (3).mp4,1_Finger_Click,60,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_16 (3)
+./Train_Data/1_Finger_Click/Video_Test_16 (4).mp4,1_Finger_Click,77,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_16 (4)
+./Train_Data/1_Finger_Click/Video_Test_16.mp4,1_Finger_Click,64,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_16
+./Train_Data/1_Finger_Click/Video_Test_17 (2).mp4,1_Finger_Click,63,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_17 (2)
+./Train_Data/1_Finger_Click/Video_Test_17 (3).mp4,1_Finger_Click,70,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_17 (3)
+./Train_Data/1_Finger_Click/Video_Test_17 (4).mp4,1_Finger_Click,75,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_17 (4)
+./Train_Data/1_Finger_Click/Video_Test_17.mp4,1_Finger_Click,75,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_17
+./Train_Data/1_Finger_Click/Video_Test_18 (2).mp4,1_Finger_Click,64,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_18 (2)
+./Train_Data/1_Finger_Click/Video_Test_18 (3).mp4,1_Finger_Click,59,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_18 (3)
+./Train_Data/1_Finger_Click/Video_Test_18.mp4,1_Finger_Click,64,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_18
+./Train_Data/1_Finger_Click/Video_Test_19 (2).mp4,1_Finger_Click,67,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_19 (2)
+./Train_Data/1_Finger_Click/Video_Test_19.mp4,1_Finger_Click,61,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_19
+./Train_Data/1_Finger_Click/Video_Test_20 (2).mp4,1_Finger_Click,58,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_20 (2)
+./Train_Data/1_Finger_Click/Video_Test_20 (3).mp4,1_Finger_Click,64,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_20 (3)
+./Train_Data/1_Finger_Click/Video_Test_20.mp4,1_Finger_Click,61,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_20
+./Train_Data/1_Finger_Click/Video_Test_21 (2).mp4,1_Finger_Click,68,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_21 (2)
+./Train_Data/1_Finger_Click/Video_Test_21 (3).mp4,1_Finger_Click,75,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_21 (3)
+./Train_Data/1_Finger_Click/Video_Test_21.mp4,1_Finger_Click,69,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_21
+./Train_Data/1_Finger_Click/Video_Test_22 (2).mp4,1_Finger_Click,62,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_22 (2)
+./Train_Data/1_Finger_Click/Video_Test_22 (3).mp4,1_Finger_Click,70,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_22 (3)
+./Train_Data/1_Finger_Click/Video_Test_22.mp4,1_Finger_Click,53,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_22
+./Train_Data/1_Finger_Click/Video_Test_23 (2).mp4,1_Finger_Click,59,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_23 (2)
+./Train_Data/1_Finger_Click/Video_Test_23 (3).mp4,1_Finger_Click,102,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_23 (3)
+./Train_Data/1_Finger_Click/Video_Test_23.mp4,1_Finger_Click,56,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_23
+./Train_Data/1_Finger_Click/Video_Test_24 (2).mp4,1_Finger_Click,98,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_24 (2)
+./Train_Data/1_Finger_Click/Video_Test_24 (3).mp4,1_Finger_Click,61,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_24 (3)
+./Train_Data/1_Finger_Click/Video_Test_24.mp4,1_Finger_Click,100,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_24
+./Train_Data/1_Finger_Click/Video_Test_25 (2).mp4,1_Finger_Click,81,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_25 (2)
+./Train_Data/1_Finger_Click/Video_Test_25 (3).mp4,1_Finger_Click,78,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_25 (3)
+./Train_Data/1_Finger_Click/Video_Test_25.mp4,1_Finger_Click,59,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_25
+./Train_Data/1_Finger_Click/Video_Test_26 (2).mp4,1_Finger_Click,55,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_26 (2)
+./Train_Data/1_Finger_Click/Video_Test_26 (3).mp4,1_Finger_Click,94,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_26 (3)
+./Train_Data/1_Finger_Click/Video_Test_26.mp4,1_Finger_Click,58,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_26
+./Train_Data/1_Finger_Click/Video_Test_27 (2).mp4,1_Finger_Click,62,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_27 (2)
+./Train_Data/1_Finger_Click/Video_Test_27 (3).mp4,1_Finger_Click,59,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_27 (3)
+./Train_Data/1_Finger_Click/Video_Test_27.mp4,1_Finger_Click,64,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_27
+./Train_Data/1_Finger_Click/Video_Test_28 (2).mp4,1_Finger_Click,60,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_28 (2)
+./Train_Data/1_Finger_Click/Video_Test_28.mp4,1_Finger_Click,87,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_28
+./Train_Data/1_Finger_Click/Video_Test_29 (2).mp4,1_Finger_Click,66,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_29 (2)
+./Train_Data/1_Finger_Click/Video_Test_29.mp4,1_Finger_Click,70,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_29
+./Train_Data/1_Finger_Click/Video_Test_30 (2).mp4,1_Finger_Click,57,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_30 (2)
+./Train_Data/1_Finger_Click/Video_Test_30.mp4,1_Finger_Click,57,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_30
+./Train_Data/1_Finger_Click/Video_Test_31 (2).mp4,1_Finger_Click,65,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_31 (2)
+./Train_Data/1_Finger_Click/Video_Test_31.mp4,1_Finger_Click,76,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_31
+./Train_Data/1_Finger_Click/Video_Test_32 (2).mp4,1_Finger_Click,57,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_32 (2)
+./Train_Data/1_Finger_Click/Video_Test_32.mp4,1_Finger_Click,107,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_32
+./Train_Data/1_Finger_Click/Video_Test_33.mp4,1_Finger_Click,60,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_33
+./Train_Data/1_Finger_Click/Video_Test_34.mp4,1_Finger_Click,58,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_34
+./Train_Data/1_Finger_Click/Video_Test_4 (2).mp4,1_Finger_Click,60,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_4 (2)
+./Train_Data/1_Finger_Click/Video_Test_4 (3).mp4,1_Finger_Click,85,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_4 (3)
+./Train_Data/1_Finger_Click/Video_Test_4 (4).mp4,1_Finger_Click,88,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_4 (4)
+./Train_Data/1_Finger_Click/Video_Test_4.mp4,1_Finger_Click,67,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_4
+./Train_Data/1_Finger_Click/Video_Test_5 (2).mp4,1_Finger_Click,62,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_5 (2)
+./Train_Data/1_Finger_Click/Video_Test_5 (3).mp4,1_Finger_Click,66,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_5 (3)
+./Train_Data/1_Finger_Click/Video_Test_5 (4).mp4,1_Finger_Click,75,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_5 (4)
+./Train_Data/1_Finger_Click/Video_Test_5.mp4,1_Finger_Click,65,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_5
+./Train_Data/1_Finger_Click/Video_Test_6 (2).mp4,1_Finger_Click,79,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_6 (2)
+./Train_Data/1_Finger_Click/Video_Test_6 (3).mp4,1_Finger_Click,84,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_6 (3)
+./Train_Data/1_Finger_Click/Video_Test_6 (4).mp4,1_Finger_Click,71,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_6 (4)
+./Train_Data/1_Finger_Click/Video_Test_6.mp4,1_Finger_Click,58,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_6
+./Train_Data/1_Finger_Click/Video_Test_7 (2).mp4,1_Finger_Click,59,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_7 (2)
+./Train_Data/1_Finger_Click/Video_Test_7 (3).mp4,1_Finger_Click,69,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_7 (3)
+./Train_Data/1_Finger_Click/Video_Test_7 (4).mp4,1_Finger_Click,64,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_7 (4)
+./Train_Data/1_Finger_Click/Video_Test_7.mp4,1_Finger_Click,77,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_7
+./Train_Data/1_Finger_Click/Video_Test_8 (2).mp4,1_Finger_Click,60,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_8 (2)
+./Train_Data/1_Finger_Click/Video_Test_8 (3).mp4,1_Finger_Click,78,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_8 (3)
+./Train_Data/1_Finger_Click/Video_Test_8 (4).mp4,1_Finger_Click,60,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_8 (4)
+./Train_Data/1_Finger_Click/Video_Test_8.mp4,1_Finger_Click,66,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_8
+./Train_Data/1_Finger_Click/Video_Test_9 (2).mp4,1_Finger_Click,54,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_9 (2)
+./Train_Data/1_Finger_Click/Video_Test_9 (3).mp4,1_Finger_Click,63,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_9 (3)
+./Train_Data/1_Finger_Click/Video_Test_9.mp4,1_Finger_Click,114,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/1_Finger_Click/Video_Test_9
+./Train_Data/2_Fingers_Left/Video_Test_0.mp4,2_Fingers_Left,104,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_0
+./Train_Data/2_Fingers_Left/Video_Test_1.mp4,2_Fingers_Left,62,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_1
+./Train_Data/2_Fingers_Left/Video_Test_10 (2).mp4,2_Fingers_Left,53,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_10 (2)
+./Train_Data/2_Fingers_Left/Video_Test_10 (3).mp4,2_Fingers_Left,46,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_10 (3)
+./Train_Data/2_Fingers_Left/Video_Test_10.mp4,2_Fingers_Left,48,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_10
+./Train_Data/2_Fingers_Left/Video_Test_11 (2).mp4,2_Fingers_Left,51,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_11 (2)
+./Train_Data/2_Fingers_Left/Video_Test_11 (3).mp4,2_Fingers_Left,51,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_11 (3)
+./Train_Data/2_Fingers_Left/Video_Test_11.mp4,2_Fingers_Left,50,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_11
+./Train_Data/2_Fingers_Left/Video_Test_12 (2).mp4,2_Fingers_Left,60,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_12 (2)
+./Train_Data/2_Fingers_Left/Video_Test_12 (3).mp4,2_Fingers_Left,52,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_12 (3)
+./Train_Data/2_Fingers_Left/Video_Test_12.mp4,2_Fingers_Left,56,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_12
+./Train_Data/2_Fingers_Left/Video_Test_13 (2).mp4,2_Fingers_Left,55,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_13 (2)
+./Train_Data/2_Fingers_Left/Video_Test_13 (3).mp4,2_Fingers_Left,38,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_13 (3)
+./Train_Data/2_Fingers_Left/Video_Test_13.mp4,2_Fingers_Left,57,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_13
+./Train_Data/2_Fingers_Left/Video_Test_14 (2).mp4,2_Fingers_Left,41,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_14 (2)
+./Train_Data/2_Fingers_Left/Video_Test_14 (3).mp4,2_Fingers_Left,71,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_14 (3)
+./Train_Data/2_Fingers_Left/Video_Test_14.mp4,2_Fingers_Left,64,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_14
+./Train_Data/2_Fingers_Left/Video_Test_15 (2).mp4,2_Fingers_Left,43,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_15 (2)
+./Train_Data/2_Fingers_Left/Video_Test_15 (3).mp4,2_Fingers_Left,62,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_15 (3)
+./Train_Data/2_Fingers_Left/Video_Test_15.mp4,2_Fingers_Left,42,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_15
+./Train_Data/2_Fingers_Left/Video_Test_16 (2).mp4,2_Fingers_Left,43,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_16 (2)
+./Train_Data/2_Fingers_Left/Video_Test_16 (3).mp4,2_Fingers_Left,66,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_16 (3)
+./Train_Data/2_Fingers_Left/Video_Test_16.mp4,2_Fingers_Left,57,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_16
+./Train_Data/2_Fingers_Left/Video_Test_17 (2).mp4,2_Fingers_Left,65,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_17 (2)
+./Train_Data/2_Fingers_Left/Video_Test_17 (3).mp4,2_Fingers_Left,49,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_17 (3)
+./Train_Data/2_Fingers_Left/Video_Test_17.mp4,2_Fingers_Left,80,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_17
+./Train_Data/2_Fingers_Left/Video_Test_18 (2).mp4,2_Fingers_Left,50,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_18 (2)
+./Train_Data/2_Fingers_Left/Video_Test_18 (3).mp4,2_Fingers_Left,42,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_18 (3)
+./Train_Data/2_Fingers_Left/Video_Test_18.mp4,2_Fingers_Left,54,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_18
+./Train_Data/2_Fingers_Left/Video_Test_19 (2).mp4,2_Fingers_Left,47,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_19 (2)
+./Train_Data/2_Fingers_Left/Video_Test_19 (3).mp4,2_Fingers_Left,44,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_19 (3)
+./Train_Data/2_Fingers_Left/Video_Test_19.mp4,2_Fingers_Left,45,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_19
+./Train_Data/2_Fingers_Left/Video_Test_2.mp4,2_Fingers_Left,80,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_2
+./Train_Data/2_Fingers_Left/Video_Test_20 (2).mp4,2_Fingers_Left,61,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_20 (2)
+./Train_Data/2_Fingers_Left/Video_Test_20 (3).mp4,2_Fingers_Left,43,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_20 (3)
+./Train_Data/2_Fingers_Left/Video_Test_20.mp4,2_Fingers_Left,59,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_20
+./Train_Data/2_Fingers_Left/Video_Test_21 (2).mp4,2_Fingers_Left,46,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_21 (2)
+./Train_Data/2_Fingers_Left/Video_Test_21 (3).mp4,2_Fingers_Left,37,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_21 (3)
+./Train_Data/2_Fingers_Left/Video_Test_21.mp4,2_Fingers_Left,44,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_21
+./Train_Data/2_Fingers_Left/Video_Test_22 (2).mp4,2_Fingers_Left,46,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_22 (2)
+./Train_Data/2_Fingers_Left/Video_Test_22 (3).mp4,2_Fingers_Left,52,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_22 (3)
+./Train_Data/2_Fingers_Left/Video_Test_22.mp4,2_Fingers_Left,43,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_22
+./Train_Data/2_Fingers_Left/Video_Test_23 (2).mp4,2_Fingers_Left,51,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_23 (2)
+./Train_Data/2_Fingers_Left/Video_Test_23 (3).mp4,2_Fingers_Left,43,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_23 (3)
+./Train_Data/2_Fingers_Left/Video_Test_23.mp4,2_Fingers_Left,55,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_23
+./Train_Data/2_Fingers_Left/Video_Test_24 (2).mp4,2_Fingers_Left,50,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_24 (2)
+./Train_Data/2_Fingers_Left/Video_Test_24 (3).mp4,2_Fingers_Left,48,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_24 (3)
+./Train_Data/2_Fingers_Left/Video_Test_24.mp4,2_Fingers_Left,53,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_24
+./Train_Data/2_Fingers_Left/Video_Test_25 (2).mp4,2_Fingers_Left,49,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_25 (2)
+./Train_Data/2_Fingers_Left/Video_Test_25 (3).mp4,2_Fingers_Left,41,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_25 (3)
+./Train_Data/2_Fingers_Left/Video_Test_25.mp4,2_Fingers_Left,43,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_25
+./Train_Data/2_Fingers_Left/Video_Test_26 (2).mp4,2_Fingers_Left,63,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_26 (2)
+./Train_Data/2_Fingers_Left/Video_Test_26 (3).mp4,2_Fingers_Left,45,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_26 (3)
+./Train_Data/2_Fingers_Left/Video_Test_26.mp4,2_Fingers_Left,42,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_26
+./Train_Data/2_Fingers_Left/Video_Test_27 (2).mp4,2_Fingers_Left,45,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_27 (2)
+./Train_Data/2_Fingers_Left/Video_Test_27.mp4,2_Fingers_Left,50,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_27
+./Train_Data/2_Fingers_Left/Video_Test_28 (2).mp4,2_Fingers_Left,53,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_28 (2)
+./Train_Data/2_Fingers_Left/Video_Test_28 (3).mp4,2_Fingers_Left,49,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_28 (3)
+./Train_Data/2_Fingers_Left/Video_Test_28.mp4,2_Fingers_Left,54,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_28
+./Train_Data/2_Fingers_Left/Video_Test_29 (2).mp4,2_Fingers_Left,49,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_29 (2)
+./Train_Data/2_Fingers_Left/Video_Test_29.mp4,2_Fingers_Left,49,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_29
+./Train_Data/2_Fingers_Left/Video_Test_3.mp4,2_Fingers_Left,79,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_3
+./Train_Data/2_Fingers_Left/Video_Test_30 (2).mp4,2_Fingers_Left,44,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_30 (2)
+./Train_Data/2_Fingers_Left/Video_Test_30.mp4,2_Fingers_Left,48,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_30
+./Train_Data/2_Fingers_Left/Video_Test_31 (2).mp4,2_Fingers_Left,40,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_31 (2)
+./Train_Data/2_Fingers_Left/Video_Test_31.mp4,2_Fingers_Left,48,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_31
+./Train_Data/2_Fingers_Left/Video_Test_32 (2).mp4,2_Fingers_Left,55,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_32 (2)
+./Train_Data/2_Fingers_Left/Video_Test_32.mp4,2_Fingers_Left,46,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_32
+./Train_Data/2_Fingers_Left/Video_Test_33 (2).mp4,2_Fingers_Left,43,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_33 (2)
+./Train_Data/2_Fingers_Left/Video_Test_33.mp4,2_Fingers_Left,63,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_33
+./Train_Data/2_Fingers_Left/Video_Test_34 (2).mp4,2_Fingers_Left,42,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_34 (2)
+./Train_Data/2_Fingers_Left/Video_Test_34.mp4,2_Fingers_Left,49,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_34
+./Train_Data/2_Fingers_Left/Video_Test_35.mp4,2_Fingers_Left,99,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_35
+./Train_Data/2_Fingers_Left/Video_Test_4 (2).mp4,2_Fingers_Left,63,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_4 (2)
+./Train_Data/2_Fingers_Left/Video_Test_4 (3).mp4,2_Fingers_Left,49,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_4 (3)
+./Train_Data/2_Fingers_Left/Video_Test_4 (4).mp4,2_Fingers_Left,44,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_4 (4)
+./Train_Data/2_Fingers_Left/Video_Test_4.mp4,2_Fingers_Left,47,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_4
+./Train_Data/2_Fingers_Left/Video_Test_5 (2).mp4,2_Fingers_Left,50,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_5 (2)
+./Train_Data/2_Fingers_Left/Video_Test_5 (3).mp4,2_Fingers_Left,56,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_5 (3)
+./Train_Data/2_Fingers_Left/Video_Test_5 (4).mp4,2_Fingers_Left,44,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_5 (4)
+./Train_Data/2_Fingers_Left/Video_Test_5.mp4,2_Fingers_Left,87,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_5
+./Train_Data/2_Fingers_Left/Video_Test_6 (2).mp4,2_Fingers_Left,58,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_6 (2)
+./Train_Data/2_Fingers_Left/Video_Test_6 (3).mp4,2_Fingers_Left,70,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_6 (3)
+./Train_Data/2_Fingers_Left/Video_Test_6 (4).mp4,2_Fingers_Left,46,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_6 (4)
+./Train_Data/2_Fingers_Left/Video_Test_6.mp4,2_Fingers_Left,49,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_6
+./Train_Data/2_Fingers_Left/Video_Test_7 (2).mp4,2_Fingers_Left,75,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_7 (2)
+./Train_Data/2_Fingers_Left/Video_Test_7 (3).mp4,2_Fingers_Left,88,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_7 (3)
+./Train_Data/2_Fingers_Left/Video_Test_7 (4).mp4,2_Fingers_Left,46,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_7 (4)
+./Train_Data/2_Fingers_Left/Video_Test_7.mp4,2_Fingers_Left,71,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_7
+./Train_Data/2_Fingers_Left/Video_Test_8 (2).mp4,2_Fingers_Left,44,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_8 (2)
+./Train_Data/2_Fingers_Left/Video_Test_8 (3).mp4,2_Fingers_Left,44,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_8 (3)
+./Train_Data/2_Fingers_Left/Video_Test_8.mp4,2_Fingers_Left,76,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_8
+./Train_Data/2_Fingers_Left/Video_Test_9 (2).mp4,2_Fingers_Left,54,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_9 (2)
+./Train_Data/2_Fingers_Left/Video_Test_9 (3).mp4,2_Fingers_Left,49,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_9 (3)
+./Train_Data/2_Fingers_Left/Video_Test_9.mp4,2_Fingers_Left,66,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Left/Video_Test_9
+./Train_Data/2_Fingers_Right/Video_Test_10 (2).mp4,2_Fingers_Right,46,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_10 (2)
+./Train_Data/2_Fingers_Right/Video_Test_10 (3).mp4,2_Fingers_Right,69,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_10 (3)
+./Train_Data/2_Fingers_Right/Video_Test_10 (4).mp4,2_Fingers_Right,48,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_10 (4)
+./Train_Data/2_Fingers_Right/Video_Test_10 (5).mp4,2_Fingers_Right,38,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_10 (5)
+./Train_Data/2_Fingers_Right/Video_Test_10.mp4,2_Fingers_Right,77,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_10
+./Train_Data/2_Fingers_Right/Video_Test_11 (2).mp4,2_Fingers_Right,60,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_11 (2)
+./Train_Data/2_Fingers_Right/Video_Test_11 (3).mp4,2_Fingers_Right,59,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_11 (3)
+./Train_Data/2_Fingers_Right/Video_Test_11 (4).mp4,2_Fingers_Right,45,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_11 (4)
+./Train_Data/2_Fingers_Right/Video_Test_11 (5).mp4,2_Fingers_Right,52,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_11 (5)
+./Train_Data/2_Fingers_Right/Video_Test_11.mp4,2_Fingers_Right,47,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_11
+./Train_Data/2_Fingers_Right/Video_Test_12 (2).mp4,2_Fingers_Right,52,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_12 (2)
+./Train_Data/2_Fingers_Right/Video_Test_12 (3).mp4,2_Fingers_Right,57,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_12 (3)
+./Train_Data/2_Fingers_Right/Video_Test_12 (4).mp4,2_Fingers_Right,56,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_12 (4)
+./Train_Data/2_Fingers_Right/Video_Test_12 (5).mp4,2_Fingers_Right,39,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_12 (5)
+./Train_Data/2_Fingers_Right/Video_Test_12.mp4,2_Fingers_Right,54,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_12
+./Train_Data/2_Fingers_Right/Video_Test_13 (2).mp4,2_Fingers_Right,61,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_13 (2)
+./Train_Data/2_Fingers_Right/Video_Test_13 (3).mp4,2_Fingers_Right,48,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_13 (3)
+./Train_Data/2_Fingers_Right/Video_Test_13 (4).mp4,2_Fingers_Right,50,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_13 (4)
+./Train_Data/2_Fingers_Right/Video_Test_13 (5).mp4,2_Fingers_Right,65,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_13 (5)
+./Train_Data/2_Fingers_Right/Video_Test_13.mp4,2_Fingers_Right,46,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_13
+./Train_Data/2_Fingers_Right/Video_Test_14 (2).mp4,2_Fingers_Right,47,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_14 (2)
+./Train_Data/2_Fingers_Right/Video_Test_14 (3).mp4,2_Fingers_Right,49,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_14 (3)
+./Train_Data/2_Fingers_Right/Video_Test_14 (4).mp4,2_Fingers_Right,49,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_14 (4)
+./Train_Data/2_Fingers_Right/Video_Test_14 (5).mp4,2_Fingers_Right,46,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_14 (5)
+./Train_Data/2_Fingers_Right/Video_Test_14.mp4,2_Fingers_Right,56,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_14
+./Train_Data/2_Fingers_Right/Video_Test_15 (2).mp4,2_Fingers_Right,41,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_15 (2)
+./Train_Data/2_Fingers_Right/Video_Test_15 (3).mp4,2_Fingers_Right,47,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_15 (3)
+./Train_Data/2_Fingers_Right/Video_Test_15 (4).mp4,2_Fingers_Right,63,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_15 (4)
+./Train_Data/2_Fingers_Right/Video_Test_15 (5).mp4,2_Fingers_Right,39,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_15 (5)
+./Train_Data/2_Fingers_Right/Video_Test_15.mp4,2_Fingers_Right,49,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_15
+./Train_Data/2_Fingers_Right/Video_Test_16 (2).mp4,2_Fingers_Right,43,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_16 (2)
+./Train_Data/2_Fingers_Right/Video_Test_16 (3).mp4,2_Fingers_Right,44,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_16 (3)
+./Train_Data/2_Fingers_Right/Video_Test_16 (4).mp4,2_Fingers_Right,55,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_16 (4)
+./Train_Data/2_Fingers_Right/Video_Test_16 (5).mp4,2_Fingers_Right,48,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_16 (5)
+./Train_Data/2_Fingers_Right/Video_Test_16.mp4,2_Fingers_Right,51,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_16
+./Train_Data/2_Fingers_Right/Video_Test_17 (2).mp4,2_Fingers_Right,54,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_17 (2)
+./Train_Data/2_Fingers_Right/Video_Test_17 (3).mp4,2_Fingers_Right,40,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_17 (3)
+./Train_Data/2_Fingers_Right/Video_Test_17 (4).mp4,2_Fingers_Right,43,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_17 (4)
+./Train_Data/2_Fingers_Right/Video_Test_17.mp4,2_Fingers_Right,51,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_17
+./Train_Data/2_Fingers_Right/Video_Test_18 (2).mp4,2_Fingers_Right,44,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_18 (2)
+./Train_Data/2_Fingers_Right/Video_Test_18 (3).mp4,2_Fingers_Right,77,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_18 (3)
+./Train_Data/2_Fingers_Right/Video_Test_18.mp4,2_Fingers_Right,65,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_18
+./Train_Data/2_Fingers_Right/Video_Test_19 (2).mp4,2_Fingers_Right,45,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_19 (2)
+./Train_Data/2_Fingers_Right/Video_Test_19 (3).mp4,2_Fingers_Right,36,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_19 (3)
+./Train_Data/2_Fingers_Right/Video_Test_19.mp4,2_Fingers_Right,54,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_19
+./Train_Data/2_Fingers_Right/Video_Test_20 (2).mp4,2_Fingers_Right,41,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_20 (2)
+./Train_Data/2_Fingers_Right/Video_Test_20 (3).mp4,2_Fingers_Right,38,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_20 (3)
+./Train_Data/2_Fingers_Right/Video_Test_20.mp4,2_Fingers_Right,42,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_20
+./Train_Data/2_Fingers_Right/Video_Test_21 (2).mp4,2_Fingers_Right,49,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_21 (2)
+./Train_Data/2_Fingers_Right/Video_Test_21 (3).mp4,2_Fingers_Right,44,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_21 (3)
+./Train_Data/2_Fingers_Right/Video_Test_21.mp4,2_Fingers_Right,47,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_21
+./Train_Data/2_Fingers_Right/Video_Test_22.mp4,2_Fingers_Right,36,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_22
+./Train_Data/2_Fingers_Right/Video_Test_23.mp4,2_Fingers_Right,33,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_23
+./Train_Data/2_Fingers_Right/Video_Test_24.mp4,2_Fingers_Right,39,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_24
+./Train_Data/2_Fingers_Right/Video_Test_25.mp4,2_Fingers_Right,39,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_25
+./Train_Data/2_Fingers_Right/Video_Test_26.mp4,2_Fingers_Right,43,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_26
+./Train_Data/2_Fingers_Right/Video_Test_27.mp4,2_Fingers_Right,41,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_27
+./Train_Data/2_Fingers_Right/Video_Test_28.mp4,2_Fingers_Right,37,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_28
+./Train_Data/2_Fingers_Right/Video_Test_29.mp4,2_Fingers_Right,57,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_29
+./Train_Data/2_Fingers_Right/Video_Test_30.mp4,2_Fingers_Right,43,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_30
+./Train_Data/2_Fingers_Right/Video_Test_31.mp4,2_Fingers_Right,46,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_31
+./Train_Data/2_Fingers_Right/Video_Test_32.mp4,2_Fingers_Right,50,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_32
+./Train_Data/2_Fingers_Right/Video_Test_33.mp4,2_Fingers_Right,54,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_33
+./Train_Data/2_Fingers_Right/Video_Test_34.mp4,2_Fingers_Right,54,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_34
+./Train_Data/2_Fingers_Right/Video_Test_36.mp4,2_Fingers_Right,32,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_36
+./Train_Data/2_Fingers_Right/Video_Test_38.mp4,2_Fingers_Right,49,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_38
+./Train_Data/2_Fingers_Right/Video_Test_39.mp4,2_Fingers_Right,36,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_39
+./Train_Data/2_Fingers_Right/Video_Test_4 (2).mp4,2_Fingers_Right,50,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_4 (2)
+./Train_Data/2_Fingers_Right/Video_Test_4 (3).mp4,2_Fingers_Right,59,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_4 (3)
+./Train_Data/2_Fingers_Right/Video_Test_4 (4).mp4,2_Fingers_Right,45,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_4 (4)
+./Train_Data/2_Fingers_Right/Video_Test_4 (5).mp4,2_Fingers_Right,41,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_4 (5)
+./Train_Data/2_Fingers_Right/Video_Test_4.mp4,2_Fingers_Right,54,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_4
+./Train_Data/2_Fingers_Right/Video_Test_40.mp4,2_Fingers_Right,42,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_40
+./Train_Data/2_Fingers_Right/Video_Test_41.mp4,2_Fingers_Right,39,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_41
+./Train_Data/2_Fingers_Right/Video_Test_5 (2).mp4,2_Fingers_Right,69,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_5 (2)
+./Train_Data/2_Fingers_Right/Video_Test_5 (3).mp4,2_Fingers_Right,50,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_5 (3)
+./Train_Data/2_Fingers_Right/Video_Test_5 (4).mp4,2_Fingers_Right,48,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_5 (4)
+./Train_Data/2_Fingers_Right/Video_Test_5 (5).mp4,2_Fingers_Right,41,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_5 (5)
+./Train_Data/2_Fingers_Right/Video_Test_5.mp4,2_Fingers_Right,55,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_5
+./Train_Data/2_Fingers_Right/Video_Test_6 (2).mp4,2_Fingers_Right,44,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_6 (2)
+./Train_Data/2_Fingers_Right/Video_Test_6 (3).mp4,2_Fingers_Right,72,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_6 (3)
+./Train_Data/2_Fingers_Right/Video_Test_6 (4).mp4,2_Fingers_Right,66,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_6 (4)
+./Train_Data/2_Fingers_Right/Video_Test_6 (5).mp4,2_Fingers_Right,42,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_6 (5)
+./Train_Data/2_Fingers_Right/Video_Test_6.mp4,2_Fingers_Right,46,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_6
+./Train_Data/2_Fingers_Right/Video_Test_7 (2).mp4,2_Fingers_Right,43,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_7 (2)
+./Train_Data/2_Fingers_Right/Video_Test_7 (3).mp4,2_Fingers_Right,62,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_7 (3)
+./Train_Data/2_Fingers_Right/Video_Test_7 (4).mp4,2_Fingers_Right,59,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_7 (4)
+./Train_Data/2_Fingers_Right/Video_Test_7 (5).mp4,2_Fingers_Right,42,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_7 (5)
+./Train_Data/2_Fingers_Right/Video_Test_7.mp4,2_Fingers_Right,65,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_7
+./Train_Data/2_Fingers_Right/Video_Test_8 (2).mp4,2_Fingers_Right,52,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_8 (2)
+./Train_Data/2_Fingers_Right/Video_Test_8 (3).mp4,2_Fingers_Right,57,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_8 (3)
+./Train_Data/2_Fingers_Right/Video_Test_8 (4).mp4,2_Fingers_Right,50,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_8 (4)
+./Train_Data/2_Fingers_Right/Video_Test_8 (5).mp4,2_Fingers_Right,83,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_8 (5)
+./Train_Data/2_Fingers_Right/Video_Test_8.mp4,2_Fingers_Right,52,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_8
+./Train_Data/2_Fingers_Right/Video_Test_9 (2).mp4,2_Fingers_Right,71,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_9 (2)
+./Train_Data/2_Fingers_Right/Video_Test_9 (3).mp4,2_Fingers_Right,59,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_9 (3)
+./Train_Data/2_Fingers_Right/Video_Test_9 (4).mp4,2_Fingers_Right,63,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_9 (4)
+./Train_Data/2_Fingers_Right/Video_Test_9 (5).mp4,2_Fingers_Right,66,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_9 (5)
+./Train_Data/2_Fingers_Right/Video_Test_9.mp4,2_Fingers_Right,49,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/2_Fingers_Right/Video_Test_9
+./Train_Data/Shake_Hand/Video_Test_10 (2).mp4,Shake_Hand,97,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_10 (2)
+./Train_Data/Shake_Hand/Video_Test_10 (3).mp4,Shake_Hand,87,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_10 (3)
+./Train_Data/Shake_Hand/Video_Test_10 (4).mp4,Shake_Hand,65,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_10 (4)
+./Train_Data/Shake_Hand/Video_Test_10.mp4,Shake_Hand,68,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_10
+./Train_Data/Shake_Hand/Video_Test_11 (2).mp4,Shake_Hand,102,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_11 (2)
+./Train_Data/Shake_Hand/Video_Test_11 (3).mp4,Shake_Hand,90,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_11 (3)
+./Train_Data/Shake_Hand/Video_Test_11 (4).mp4,Shake_Hand,75,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_11 (4)
+./Train_Data/Shake_Hand/Video_Test_11.mp4,Shake_Hand,88,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_11
+./Train_Data/Shake_Hand/Video_Test_12 (2).mp4,Shake_Hand,100,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_12 (2)
+./Train_Data/Shake_Hand/Video_Test_12 (3).mp4,Shake_Hand,73,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_12 (3)
+./Train_Data/Shake_Hand/Video_Test_12 (4).mp4,Shake_Hand,71,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_12 (4)
+./Train_Data/Shake_Hand/Video_Test_12.mp4,Shake_Hand,78,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_12
+./Train_Data/Shake_Hand/Video_Test_13 (2).mp4,Shake_Hand,67,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_13 (2)
+./Train_Data/Shake_Hand/Video_Test_13 (3).mp4,Shake_Hand,73,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_13 (3)
+./Train_Data/Shake_Hand/Video_Test_13 (4).mp4,Shake_Hand,68,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_13 (4)
+./Train_Data/Shake_Hand/Video_Test_13.mp4,Shake_Hand,78,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_13
+./Train_Data/Shake_Hand/Video_Test_14 (2).mp4,Shake_Hand,86,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_14 (2)
+./Train_Data/Shake_Hand/Video_Test_14 (3).mp4,Shake_Hand,71,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_14 (3)
+./Train_Data/Shake_Hand/Video_Test_14 (4).mp4,Shake_Hand,109,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_14 (4)
+./Train_Data/Shake_Hand/Video_Test_14.mp4,Shake_Hand,92,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_14
+./Train_Data/Shake_Hand/Video_Test_15 (2).mp4,Shake_Hand,78,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_15 (2)
+./Train_Data/Shake_Hand/Video_Test_15 (3).mp4,Shake_Hand,92,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_15 (3)
+./Train_Data/Shake_Hand/Video_Test_15 (4).mp4,Shake_Hand,82,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_15 (4)
+./Train_Data/Shake_Hand/Video_Test_15.mp4,Shake_Hand,76,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_15
+./Train_Data/Shake_Hand/Video_Test_16 (2).mp4,Shake_Hand,101,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_16 (2)
+./Train_Data/Shake_Hand/Video_Test_16 (3).mp4,Shake_Hand,83,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_16 (3)
+./Train_Data/Shake_Hand/Video_Test_16 (4).mp4,Shake_Hand,84,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_16 (4)
+./Train_Data/Shake_Hand/Video_Test_16.mp4,Shake_Hand,84,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_16
+./Train_Data/Shake_Hand/Video_Test_17 (2).mp4,Shake_Hand,109,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_17 (2)
+./Train_Data/Shake_Hand/Video_Test_17 (3).mp4,Shake_Hand,71,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_17 (3)
+./Train_Data/Shake_Hand/Video_Test_17 (4).mp4,Shake_Hand,115,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_17 (4)
+./Train_Data/Shake_Hand/Video_Test_17.mp4,Shake_Hand,74,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_17
+./Train_Data/Shake_Hand/Video_Test_18 (2).mp4,Shake_Hand,76,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_18 (2)
+./Train_Data/Shake_Hand/Video_Test_18 (3).mp4,Shake_Hand,70,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_18 (3)
+./Train_Data/Shake_Hand/Video_Test_18 (4).mp4,Shake_Hand,82,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_18 (4)
+./Train_Data/Shake_Hand/Video_Test_18.mp4,Shake_Hand,73,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_18
+./Train_Data/Shake_Hand/Video_Test_19 (2).mp4,Shake_Hand,80,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_19 (2)
+./Train_Data/Shake_Hand/Video_Test_19 (3).mp4,Shake_Hand,81,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_19 (3)
+./Train_Data/Shake_Hand/Video_Test_19 (4).mp4,Shake_Hand,113,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_19 (4)
+./Train_Data/Shake_Hand/Video_Test_19.mp4,Shake_Hand,91,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_19
+./Train_Data/Shake_Hand/Video_Test_20 (2).mp4,Shake_Hand,79,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_20 (2)
+./Train_Data/Shake_Hand/Video_Test_20 (3).mp4,Shake_Hand,76,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_20 (3)
+./Train_Data/Shake_Hand/Video_Test_20 (4).mp4,Shake_Hand,67,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_20 (4)
+./Train_Data/Shake_Hand/Video_Test_20.mp4,Shake_Hand,74,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_20
+./Train_Data/Shake_Hand/Video_Test_21 (2).mp4,Shake_Hand,72,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_21 (2)
+./Train_Data/Shake_Hand/Video_Test_21 (3).mp4,Shake_Hand,88,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_21 (3)
+./Train_Data/Shake_Hand/Video_Test_21.mp4,Shake_Hand,89,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_21
+./Train_Data/Shake_Hand/Video_Test_22 (2).mp4,Shake_Hand,85,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_22 (2)
+./Train_Data/Shake_Hand/Video_Test_22 (3).mp4,Shake_Hand,70,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_22 (3)
+./Train_Data/Shake_Hand/Video_Test_22.mp4,Shake_Hand,73,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_22
+./Train_Data/Shake_Hand/Video_Test_23 (2).mp4,Shake_Hand,74,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_23 (2)
+./Train_Data/Shake_Hand/Video_Test_23 (3).mp4,Shake_Hand,73,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_23 (3)
+./Train_Data/Shake_Hand/Video_Test_23.mp4,Shake_Hand,84,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_23
+./Train_Data/Shake_Hand/Video_Test_24 (2).mp4,Shake_Hand,82,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_24 (2)
+./Train_Data/Shake_Hand/Video_Test_24 (3).mp4,Shake_Hand,71,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_24 (3)
+./Train_Data/Shake_Hand/Video_Test_24.mp4,Shake_Hand,107,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_24
+./Train_Data/Shake_Hand/Video_Test_25 (2).mp4,Shake_Hand,77,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_25 (2)
+./Train_Data/Shake_Hand/Video_Test_25 (3).mp4,Shake_Hand,66,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_25 (3)
+./Train_Data/Shake_Hand/Video_Test_25.mp4,Shake_Hand,80,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_25
+./Train_Data/Shake_Hand/Video_Test_26 (2).mp4,Shake_Hand,77,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_26 (2)
+./Train_Data/Shake_Hand/Video_Test_26 (3).mp4,Shake_Hand,71,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_26 (3)
+./Train_Data/Shake_Hand/Video_Test_26.mp4,Shake_Hand,74,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_26
+./Train_Data/Shake_Hand/Video_Test_27 (2).mp4,Shake_Hand,74,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_27 (2)
+./Train_Data/Shake_Hand/Video_Test_27 (3).mp4,Shake_Hand,85,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_27 (3)
+./Train_Data/Shake_Hand/Video_Test_27.mp4,Shake_Hand,68,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_27
+./Train_Data/Shake_Hand/Video_Test_28 (2).mp4,Shake_Hand,80,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_28 (2)
+./Train_Data/Shake_Hand/Video_Test_28.mp4,Shake_Hand,75,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_28
+./Train_Data/Shake_Hand/Video_Test_29 (2).mp4,Shake_Hand,80,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_29 (2)
+./Train_Data/Shake_Hand/Video_Test_29.mp4,Shake_Hand,75,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_29
+./Train_Data/Shake_Hand/Video_Test_30 (2).mp4,Shake_Hand,69,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_30 (2)
+./Train_Data/Shake_Hand/Video_Test_30.mp4,Shake_Hand,83,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_30
+./Train_Data/Shake_Hand/Video_Test_31.mp4,Shake_Hand,91,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_31
+./Train_Data/Shake_Hand/Video_Test_32.mp4,Shake_Hand,80,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_32
+./Train_Data/Shake_Hand/Video_Test_33.mp4,Shake_Hand,73,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_33
+./Train_Data/Shake_Hand/Video_Test_34.mp4,Shake_Hand,86,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_34
+./Train_Data/Shake_Hand/Video_Test_35.mp4,Shake_Hand,84,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_35
+./Train_Data/Shake_Hand/Video_Test_36.mp4,Shake_Hand,76,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_36
+./Train_Data/Shake_Hand/Video_Test_37.mp4,Shake_Hand,88,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_37
+./Train_Data/Shake_Hand/Video_Test_4 (2).mp4,Shake_Hand,97,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_4 (2)
+./Train_Data/Shake_Hand/Video_Test_4 (3).mp4,Shake_Hand,112,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_4 (3)
+./Train_Data/Shake_Hand/Video_Test_4 (4).mp4,Shake_Hand,89,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_4 (4)
+./Train_Data/Shake_Hand/Video_Test_4.mp4,Shake_Hand,107,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_4
+./Train_Data/Shake_Hand/Video_Test_5 (2).mp4,Shake_Hand,96,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_5 (2)
+./Train_Data/Shake_Hand/Video_Test_5 (3).mp4,Shake_Hand,94,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_5 (3)
+./Train_Data/Shake_Hand/Video_Test_5 (4).mp4,Shake_Hand,66,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_5 (4)
+./Train_Data/Shake_Hand/Video_Test_5.mp4,Shake_Hand,86,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_5
+./Train_Data/Shake_Hand/Video_Test_6 (2).mp4,Shake_Hand,66,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_6 (2)
+./Train_Data/Shake_Hand/Video_Test_6 (3).mp4,Shake_Hand,95,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_6 (3)
+./Train_Data/Shake_Hand/Video_Test_6 (4).mp4,Shake_Hand,81,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_6 (4)
+./Train_Data/Shake_Hand/Video_Test_6.mp4,Shake_Hand,70,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_6
+./Train_Data/Shake_Hand/Video_Test_7 (2).mp4,Shake_Hand,83,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_7 (2)
+./Train_Data/Shake_Hand/Video_Test_7 (3).mp4,Shake_Hand,113,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_7 (3)
+./Train_Data/Shake_Hand/Video_Test_7 (4).mp4,Shake_Hand,74,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_7 (4)
+./Train_Data/Shake_Hand/Video_Test_7.mp4,Shake_Hand,75,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_7
+./Train_Data/Shake_Hand/Video_Test_8 (2).mp4,Shake_Hand,72,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_8 (2)
+./Train_Data/Shake_Hand/Video_Test_8 (3).mp4,Shake_Hand,81,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_8 (3)
+./Train_Data/Shake_Hand/Video_Test_8 (4).mp4,Shake_Hand,78,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_8 (4)
+./Train_Data/Shake_Hand/Video_Test_8.mp4,Shake_Hand,77,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_8
+./Train_Data/Shake_Hand/Video_Test_9 (2).mp4,Shake_Hand,80,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_9 (2)
+./Train_Data/Shake_Hand/Video_Test_9 (3).mp4,Shake_Hand,72,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_9 (3)
+./Train_Data/Shake_Hand/Video_Test_9 (4).mp4,Shake_Hand,72,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_9 (4)
+./Train_Data/Shake_Hand/Video_Test_9.mp4,Shake_Hand,93,C:/Users/Moon/Desktop/Hand_Gesture_Detection/Train_Data/Shake_Hand/Video_Test_9
